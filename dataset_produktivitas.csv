@@ -1,0 +1,495 @@
+No,Tanggal,Kecamatan,Desa,Kelompok Tani,Komoditas,Luas Tanam (ha),Varietas,Stadia/Umur Tanaman (hst),Jenis OPT,Pupuk Bersubsidi Organik dan Anorganik (Ton),Luas Terserang (Ha),Intensitas (%),Luas Waspada (Ha),Hasil Panen (ton)
+1,11-Apr-22,Bluto,Aeng Baja Raja,Harapan Baru,Jagung,9,Hibrida,45,Bipolaris maydis,1.1,5.85,0,,
+2,1/25/2022,Dasuk,Bringin,Harapan Baru Bringin,Padi,8,Sembada,50,Xanthomonas oryzae,8,1,9.83,4,48
+3,19 Juli 2022,Arjasa,Laok Jang-jang,9 Naga Arjasa,Kacang Tanah,,Lokal,55,Virus Belang Mozaik,,0.3,4.93,0.4,
+4,1/7/2022,Kota Sumenep,Kolor,Adipoday,Padi,27.5,Ciherang,27,Tikus (Rattus argentiventer),7.50,27.50,13.06,20.00,82
+5,21-Dec-22,Arjasa,Kolo-Kolo,Aeng Pao Bertani,Padi,,Ciherang,37,Cnaphalocrocis Medinalis,,0.7,4.41,5.3,
+6,27-Oct-22,Arjasa,Angkatan,Aermas Betang,Kacang Hijau,,Lokal,45,Kumbang Tanah Kuning,,0.7,5.70,,
+7,27-Dec-22,Arjasa,Laok Jang-jang,Ajie Group,Jagung,,Lokal,77,Bipolaris maydis,,0.6,5.71,1.1,
+8,19 Mei 2022,Lenteng,Banaresep timur,Al-Amin Banaresep,Padi,9,"Ciherang, Inpari, Mapan",35,Tikus (Rattus argentiventer),9,2,20.52,3,
+9,22 Pebruari 2022,Gapura,Beraji,Al-Amir,Padi,98.5,"Ciherang, Inpari",70,Blas ( Magnopoerthe oryzae),24,1.5,6.29,12,96
+10,2/7/2022,Lenteng,Sindir,Al-Hikmah,Padi,115,"Ciherang, Inpari",45,Xanthomonas oryzae,115,3,3.7,12,690
+11,4 Agustus 2022,Bluto,Aeng Baja Raja,Al Barokah Aengbaja Raja,Jagung,5,Hibrida,55,Lalat Bibit (Atherigona Exigua),5,0.8,3.58,0.7,60
+12,21 Juli 2022,Arjasa,Sawah Sumur,Al Faruq,Kacang Tanah,,Lokal,82,Cercospora arachidicola,,0.5,5.96,1,
+13,3/16/2022,Bluto,Pkd Barat,Al Hamidiyah,Jagung,32,Hibrida,22,Lalat Bibit (Atherigona Exigua),32,0.5,4.85,1.6,384
+14,20-Dec-22,Arjasa,Laok Jang-jang,Al Hasan,Jagung,,Lokal,70,Bipolaris maydis,,0.4,5.8,1.3,
+15,21-Dec-22,Arjasa,Laok Jang-jang,Al Ihsan,Padi,,Ciherang,47,Blas ( Magnopoerthe oryzae),,0.5,4.18,3.5,
+16,28-Dec-22,Ganding,Talaga,Al Karomah Talaga,Padi,30,"Ciherang, Inpari, Mapan",25,Xanthomonas oryzae,30,1.5,1.85,2.5,210
+17,22-Sep-22,Pasongsongan,Campaka,Al Kautsar Campaka,Cabai Kecil,,Lokal,60,Antraknosa,,0.5,6.67,2.5,
+18,5-Oct-22,Arjasa,Pabian,Al Misbah,Kacang Hijau,,Lokal,75,Pseudomonas Syringae,,0.6,5.33,0.4,
+19,1/7/2022,Bluto,Sera Timur,Al Mubarok,Padi,16,Ciherang,22,Xanthomonas oryzae,0.8,16,4.28,2.3,48
+20,7-Sep-22,Arjasa,Sawah Sumur,Al Mukmin,Jagung,,Hibrida,47,Ulat Grayak,,1,4.99,,
+21,8-Oct-22,Rubaru,Matanair,Al Qodiri Rubaru,Bawang Merah,,Rubaru,40,Moler,,0.5,7.7,1,
+22,27-Dec-22,Arjasa,Laok Jang-jang,Al Barokah,Padi,,Ciherang,48,Xanthomonas oryzae,,0.8,5.11,5,
+23,4/19/2022,Guluk-guluk,Bragung,Al Hikmah,Padi,25,Ciherang,37,Blas ( Magnopoerthe oryzae),25,10,19.6,,75
+24,1/12/2022,Guluk-guluk,Bragung,Al Irsyad Bragung,Padi,,Inpari,45,Tikus (Rattus argentiventer),5,,14.2,0,
+25,22-Dec-22,Arjasa,Angkatan,Almeera,Jagung,,Lokal,57,Spodoptera frugiperda,,0.8,6.22,3.7,
+26,27-Oct-22,Bluto,Aeng Baja Raja,Al-Muchlisin,Jagung,,Hibrida,35,Spodoptera frugiperda,,1.9,6.18,2.1,
+27,4-Oct-22,Arjasa,Pabian,Ambhet,Jagung,,Lokal,55,Ulat Grayak,,0.5,5.54,1.5,
+28,2 Agustus 2022,Bluto,Sera Tengah,An Nawari,Jagung,1,Hibrida,55,Lalat Bibit (Atherigona Exigua),1,0.4,3.84,0.3,12
+29,24 Mei 2022,Arjasa,Angkatan,Andung Sari Arjasa,Padi,,"Ciherang, Inpari",50,Xanthomonas oryzae,,0.7,4.56,11,
+30,26-Aug-22,Pasongsongan,Padangdangan,Angkasa,Cabai Kecil,,Lokal,,Antraknosa,,0.3,3.3,1.7,
+31,27-Dec-22,Guluk-guluk,Tambuko,An-Najah Tambuko,Padi,52,"Ciherang, Inpari",21,Tikus (Rattus argentiventer),52,6,0,2.2,312
+32,19 Juli 2022,Lenteng,Sinder,Ar-Raudah,Padi,13,"Ciherang, Inpari, Mapan",45,Blas ( Magnopoerthe oryzae),13,0.5,2.59,2,91
+33,20 Juni 2022,Saronggi,Talang,Ar rohmah,Padi,167,Ciherang,70,Rhizoctonia Solani,167,3.2,6.17,7.3,501
+34,4/20/2022,Saronggi,Nambakor,Ar Rohmah Saronggi,Padi,34,Ciherang,35,Xanthomonas oryzae,34,1.4,4.75,3.2,102
+35,18 Juli 2022,Lenteng,Lembung Timur,Ares Tengah,Padi,51,"Ciherang, Inpari, Mapan, M400",55,Hawar Daun (Helminthosporium turcicum),51,1.5,4.07,11.5,561
+36,21 Pebruari 2022,Ganding,Gadu barat,Ar-Rohmani,Padi,145,"Ciherang, Inpari, Mapan, M400",75,Hawar Daun (Helminthosporium turcicum),,0.5,8.88,9.5,
+37,2/8/2022,Batuan,Gedungan,Aruma Jaya,Padi,85,Ciherang,60,Xanthomonas oryzae,85,9.50,10.73,75.50,255
+38,3/16/2022,Lenteng,lenteng timur,As-Sahidiyah,Padi,290,"Ciherang, Inpari, Mapan, M400",75,Xanthomonas oryzae,290,3,6.29,14,3190
+39,19-Sep-22,Lenteng,Daramista,Assasul Muttaqin,Jagung,,Lokal,45,Spodoptera frugiperda,,0.5,5.18,1.5,
+40,18 Juli 2022,Arjasa,Laok Jang-jang,Babul Ihsan,Kacang Tanah,,Lokal,55,Cercospora arachidicola,,0.6,4.78,0.7,
+41,22-Sep-22,Pasongsongan,Padangdangan,Babul Rizqi,Cabai Kecil,,Lokal,55,Antraknosa,,0.3,3.3,1.7,
+42,21-Dec-22,Arjasa,Sawah Sumur,Babur Arazaq,Kacang Tanah,,Lokal,78,Cercospora arachidicola,,0.3,5.5,0.4,
+43,2/3/2022,Bluto,Palongan,Baitul Amien,Padi,12,Ciherang,55,Tikus (Rattus argentiventer),12,0.8,4.32,3.2,48
+44,1/4/2022,Gapura,Beraji,Bakti Bangsa,Padi  ,198,"Ciherang, Inpari",25,Tikus (Rattus argentiventer),0.7,198,16.50,17,1188
+45,6-Sep-22,Arjasa,Sambakati,Bakti Jaya Arjasa,Padi,,"Ciherang, Inpari",40,Blas ( Magnopoerthe oryzae),,0.8,4.28,,
+46,2/14/2022,Gapura, Gapura tengah,Balsem Sakinah,Padi,199.5,"Ciherang, Inpari",22,Tikus (Rattus argentiventer),199.5,0.7,12.71,21,1197
+47,1/12/2022,Gapura, Gapura tengah,Bangkit,Padi ,199.5,"Ciherang, Inpari",22,Tikus (Rattus argentiventer),0.7,199.5,12.71,21,1197
+48,28-Dec-22,Arjasa,Sambakati,Bapak Tani,Padi,,Ciherang,40,Blas ( Magnopoerthe oryzae),,0.6,3.87,15.4,
+49,1/11/2022,Sapeken,Sapeken,Barakah Sapeken,Kacang Tanah,,Lokal,60,Cercospora arachidicola,0.3,,4.03,0,
+50,8-Sep-22,Arjasa,Duko,Barokah Arjasa,Padi,,"Ciherang, Inpari",50,Blas ( Magnopoerthe oryzae),,1,4.98,,
+51,2/2/2022,Manding,Kasengan,Barokah Sejahtera,Padi,15,Ciherang,75,Tikus (Rattus argentiventer),15,0.5,3.33,20,60
+52,4/21/2022,Ganding,Bilapora timur,Baru Muncul,Padi,6,"Ciherang, Inpari",20,Xanthomonas oryzae,6,1,2.96,2,36
+53,2/3/2022,Rubaru,Basoka,Basoka Indah,Bawang merah,59,Rubaru,40,Ulat Grayak,59,0.7,8.14,57,1003
+54,1/25/2022,Bluto,Gilang,Batu Mas,Jagung,71,Ciherang,78,Tikus (Rattus argentiventer),71,0.6,9.83,2.4,497
+55,26-Sep-22,Batuan,Batuan,Batuan Indah,Kedelai,,Lokal,20,Tikus (Rattus argentiventer),,1.5,10,2,
+56,22-Dec-22,Arjasa,Kalinganyar,Bekisar,Ubi Kayu,,Lokal,180,Cercospora Manihoti,,1.2,5.72,1.3,
+57,2/1/2022,Kalianget,Kalimo'ok,Benteng Jaya,Padi,22.5,Ciherang,59,Xanthomonas oryzae,22.5,7.50,8.89,15.00,67.5
+58,8-Sep-22,Arjasa,Sawah Sumur,Beringin Abadi,Kacang Hijau,,Lokal,46,Kumbang Tanah Kuning,,0.6,5.16,,
+59,11-Oct-22,Arjasa,Sawah Sumur,Beringin Jaya,Kacang Hijau,,Lokal,87,Pseudomonas Syringae,,0.6,6.08,2.4,
+60,23-Aug-22,Arjasa,Kalinganyar,Beringin Jaya Kalinganyar,Kacang Hijau,,Lokal,38,Kumbang Tanah Kuning,,1,4.32,2.7,
+61,9-May-22,Arjasa,Sumbernangka,Beringin Rampak,Padi,,Ciherang,35,Blas ( Magnopoerthe oryzae),,4.43,0,1.3,
+62,22-Aug-22,Saronggi,Tanamerah,Berkat Usaha Tanah Merah,Jagung,8,Hibrida,35,Peronosclerospora Maydis,8,0.80,8.48,0.60,96
+63,1/5/2022,Ganding,Bilapora timur,Bersatu,Padi,22,"Ciherang, Inpari",30,Tikus (Rattus argentiventer),4,22,18.55,18,132
+64,11-Apr-22,Bluto,Sera Tengah,Bersatu I,Jagung,16,Hibrida,45,Bipolaris maydis,1.4,5.70,0,,12
+65,21-Dec-22,Ganding,Bilapora timur,Bersaudara,Padi,30,"Ciherang, Inpari, Mapan",30,Xanthomonas oryzae,30,1,4.81,2,210
+66,19 Juli 2022,Arjasa,Bilis-Bilis,Bilis Bilis Indah,Jagung,,Lokal,50,Ulat Grayak,,0.5,5.74,0.2,
+67,29-Dec-22,Pragaan,Pragaan Laok,Bina Bhakti,Padi,25,"Ciherang, Inpari",7,Tikus (Rattus argentiventer),25,10,0,15,150
+68,1/11/2022,Batuan,Patian,Bina Karya Patean,Padi,29,Ciherang,30,Tikus (Rattus argentiventer),4.50,29.00,10.99,24.50,87
+69,24 Februari 2022,Gapura, Gapura tengah,Bina Mandiri,Padi,199.5,"Ciherang, Inpari",22,Tikus (Rattus argentiventer),53,0.7,12.71,21,212
+70,9 Maret 2022,Kalianget,Kalimo'ok,Bina Remaja Tani,Padi,22.5,Ciherang,72,Rhizoctonia Solani,22.5,9.50,4.81,13.00,90
+71,22-Sep-22,Arjasa,Laok Jang-jang,Bina Tani Sejahtera,Cabai,,Lokal,182,Antraknosa,,0.3,546,0,
+72,1/4/2022,Saronggi,Nambakor,Bina Warga Tani,Padi,53,Ciherang,26,Xanthomonas oryzae,0.9,53,5.05,4.6,159
+73,25 Juli 2022,Ambunten,Ambunten Barat,Bintang Kejora Taroh,Jagung,,Lokal,85,Tikus (Rattus argentiventer),,0.25,1.3,,
+74,7 Maret 2022,Kota Sumenep,Marengan Daya,Bintang Timur,Padi,56,Ciherang,79,Rhizoctonia Solani,56,7.00,7.04,49.00,224
+75,12-Apr-22,Arjasa,Pajennangger,Bintang Timur Pajennangger,Jagung,,Lokal,30,Hawar Daun (Helminthosporium turcicum),7,5.04,0,,
+76,19-Dec-22,Arjasa,Bilis-Bilis,Bire Pancar II,Cabai,,Lokal,180,Colletotrichum Capsici,,0.3,5.13,0,
+77,1/20/2022,Guluk-guluk,Bragung,Bragung Jaya,Jagung,10,Bisi 2,75,Bipolaris maydis,10,1,9.6,0,140
+78,17 Januari 2022,Arjasa,Bilis-Bilis,Bugis Permai,Padi,,Ciherang,50,Blas ( Magnopoerthe oryzae),,1.2,4.05,5.8,
+79,3/23/2022,Bluto,Gilang,Bukit Sukun,Jagung,23,Hibrida,25,Lalat Bibit (Atherigona Exigua),23,1.2,4.43,3.1,276
+80,12-Apr-22,Arjasa,Pajennangger,Bulan Sabit Arjasa,Jagung,,Lokal,35,Bulai,0.5,4.64,0,,
+81,1-Oct-22,Guluk-guluk,Payudan Nangger,Bumi Makmur Damar,Jagung,,NK 212,35,Bulai,,1,10%,0,0
+82,1 Agustus 2022,Saronggi,Tanjung,Bumi Rahayu,Jagung,3,Hibrida,35,Lalat Bibit (Atherigona Exigua),3,0.7,5.21,0.9,36
+83,1/3/2022,Gapura, Gapura barat,Bumi Shalawat,Padi  ,1495,"Ciherang, Inpari",27,Tikus (Rattus argentiventer),0.7,1495,11.38,5,8970
+84,19-Sep-22,Saronggi,Kambingan Timur,Bunga Desa,Kacang Hijau,,Lokal,75,Ulat Buah,,1.6,4.56,4.3,
+85,22-Aug-22,Saronggi,Kebun Dadap Barat,Bunga Harapan,Jagung,3,Hibrida,45,Ulat Grayak,3,0.40,6.09,0.30,36
+86,10 Maret 2022,Bluto,Sera Timur,Bunga Harapan Indah,Padi,16,Ciherang,80,Penggerek Batang,16,1.1,3.17,1.2,64
+87,22-Dec-22,Gapura,Gapura Timur,Bunga Indah Gapura,Jagung,2,Betras,70,Spodoptera frugiperda,2,1,7.7,1,28
+88,12-Oct-22,Arjasa,Pajennangger,Bunga Mawar Pajennangger,Jagung,,Lokal,55,Ulat Grayak,,0.8,4.56,0.7,
+89,16 Juni 2022,Lenteng,Lembung Timur,Bunga Pesantren,Padi,51,"Ciherang, Inpari, Mapan, M400",35,Tikus (Rattus argentiventer),51,3,17.8,4,561
+90,9 Maret 2022,Kalianget,Kalimo'ok,Bunga Seroja Temor Lorong,Kacang Tanah ,15.25,Lokal,27,Cercospora arachidicola,15.25,7.50,8.52,7.75,122
+91,12-Sep-22,Bluto,Sera Timur,Bunga Suci ST,Jagung,2,Hibrida,21,Ulat Grayak,2,0.4,7.19,1.2,24
+92,27-Dec-22,Guluk-guluk,Pananggungan,Cahaya,Padi,64,"Ciherang, Inpari",35,Tikus (Rattus argentiventer),64,4,9.16,4.3,384
+93,5-Oct-22,Arjasa,Pandeman,Cahaya A2,Jagung,,Lokal,45,Bulai,,1,5.88,2,
+94,4 Juli 2022,Bluto,Errabu,Cahaya Tani,Jagung,2,Hibrida,30,Spodoptera frugiperda,2,0.6,6.65,1.2,24
+95,20-Dec-22,Arjasa,Kolo-Kolo,Cahaya Tani Kolo kolo,Padi,,Ciherang,40,Xanthomonas oryzae,,0.5,4.42,9.5,
+96,26-Dec-22,Arjasa,Angon-Angon,Celpa Aeng,Padi,,Ciherang,40,Xanthomonas oryzae,,0.7,4.74,9.2,
+97,4/20/2022,Arjasa,Angon-Angon,Celpa Cukir,Padi,,"Ciherang, Inpari",19,Lalat Daun,,1.3,4.43,5.7,
+98,22-Sep-22,Arjasa,Laok Jang-jang,Cemara Indah,Padi,,"Ciherang, Inpari",52,Cnaphalocrocis Medinalis,,1,5.31,1,
+99,19-Dec-22,Arjasa,Bilis-Bilis,Cempa Aeng,Padi,,Ciherang,50,Blas ( Magnopoerthe oryzae),,0.8,5.12,5.2,
+100,19 Juli 2022,Ambunten,Padangdangan,Cendrawasih Ambunten,Cabai Kecil,,Lokal,55,Antraknosa,,0.3,3.3,,
+101,1/11/2022,Sapeken,Kalisangka,Ceppon Center,Kacang Tanah,,Lokal,77,Virus Belang Mozaik,0.5,,5.74,1.2,
+102,2 Agustus 2022,Saronggi,Tanjung,Cinta Damai,Jagung,3,Hibrida,35,Spodoptera frugiperda,3,1.1,6.96,0.6,36
+103,21-Sep-22,Arjasa,Laok Jang-jang,Citra Jaya,Padi,,"Ciherang, Inpari",52,Xanthomonas oryzae,,1.2,5.17,0.8,
+104,3/30/2022,Rubaru,Karangnangka,Citra Karya,Cabai Kecil,3,Sigantung,60,Virus Kuning,3,0.2,4.07,0.3,21
+105,16 Juni 2022,Lenteng,Lenteng timur,Darul Iman,Padi,35,"Ciherang, Inpari, Mapan",35,Tikus (Rattus argentiventer),35,4,17.15,9,245
+106,22-Sep-22,Arjasa,Kalisangka,Delima,Kacang Tanah,,Lokal,90,Cercospora arachidicola,,0.8,5.81,0.7,
+107,29-Sep-22,Ganding,Karay,Delima Putih,Jagung,,Lokal,45,Spodoptera frugiperda,,1.5,3.7,1.5,
+108,10-Oct-22,Arjasa,Sumbernangka,Dermaga Tani,Padi,,"Ciherang, Inpari",67,Blas ( Magnopoerthe oryzae),,1,5.32,3,
+109,2 Agustus 2022,Saronggi,Aeng Tongtong,Dewi Fortuna Aeng Tong Tong,Jagung,2,Hibrida,35,Spodoptera frugiperda,2,0.7,7.27,0.4,24
+110,7 Juni 2022,Arjasa,Bilis-Bilis,Dewi Sri,Padi,,"Ciherang, Inpari",62,Rhizoctonia Solani,,1,5.09,6,
+111,19-Sep-22,Arjasa,Bilis-Bilis,Dhuak Ngampar,Padi,,Ciherang,64,Rhizoctonia Solani,,0.8,4.83,3.7,
+112,4-Oct-22,Arjasa,Sambakati,Dian Lestari,Cabai,,Lokal,160,Antraknosa,,0.4,5.25,0,
+113,27-Oct-22,Arjasa,Laok Jang-jang,Dina Jaya,Kacang Tanah,,Lokal,45,Cercospora arachidicola,,0.5,4.84,,
+114,19 Mei 2022,Batang Batang,Totosan,Edelwis,Padi,25,Inpari,42,Tikus (Rattus argentiventer),25,2.5,6.66,20,175
+115,6 Juni 2022,Arjasa,Duko,E-Jenta,Padi,,Ciherang,60,Rhizoctonia Solani,,1.2,5.26,9.8,
+116,1/21/2022,Guluk-guluk,Payudan Nangger,Fajar Tani Kowel,Padi,10,Inpari,75,Xanthomonas oryzae,10,4,11.1,,70
+117,4/18/2022,Bluto,Aeng Baja Kenek,Gajah Mada,Jagung,24,Hibrida,45,Ulat Grayak,24,1.5,5.39,2.7,288
+118,5-Apr-22,Kota Sumenep,Bangkal,Ghadding,Padi,5.5,Ciherang,17,Blas ( Magnopoerthe oryzae),5.5,1.50,5.19,4.00,16.5
+119,12-Sep-22,Arjasa,Sambakati,Gua Tarobi,Padi,,"Ciherang, Inpari",40,Blas ( Magnopoerthe oryzae),,1,5.54,,
+120,3 Agustus 2022,Arjasa,Bilis-Bilis,Gunung Tenga Indah,Padi,,"Ciherang, Inpari",15,Lalat Daun,,1,3.65,2.5,
+121,5-Oct-22,Arjasa,Pandeman,Hamizan Jaya,Jagung,,Lokal,45,Lalat Daun,,0.8,4.98,2.2,
+122,6 Juli 2022,Ganding,Bilapora timur,Harapan,Padi,8,"Ciherang, Inpari, Mapan, M400",60,Blas ( Magnopoerthe oryzae),8,1.5,4.44,2.5,88
+123,12-Apr-22,Arjasa,Pajennangger,Harapan Bersama,Jagung,,Lokal,30,Ulat Grayak,0.7,4.58,0,,
+124,23-Aug-22,Saronggi,Talang,Harapan Indah Dusun Laok Lorong,Jagung,11,Hibrida,55,Bipolaris maydis,11,1.2,5.54,3.2,132
+125,10 Maret 2022,Bluto,Aeng Baja Raja,Harapan Jaya,Jagung,,Hibrida,22,Lalat Bibit (Atherigona Exigua),,0.8,3.58,1.6,
+126,22-Sep-22,Ambunten,Campor Barat,Harapan Jaya Campor,Jagung,,Lokal,65,Tikus (Rattus argentiventer),,0.3,6.67,5,
+127,3/17/2022,Lenteng,Lenteng timur,Harapan Jaya II,Kacang Hijau,,Lokal,40,Pseudomonas Syringae,,0.5,2.96,1,
+128,4/20/2022,Bluto,Bluto,Harapan Maju Bluto,Jagung,16,Hibrida,45,Ulat Grayak,16,0.7,5.70,2.8,192
+129,27-Oct-22,Bluto,Sera Timur,Harmonis,Jagung,,Hibrida,35,Spodoptera frugiperda,,0.6,5.25,1.2,
+130,11-Apr-22,Bluto,Sera Barat,Hemapera Barat,Jagung,1,Hibrida,35,Bipolaris maydis,1.6,5.84,0,,
+131,24-Aug-22,Arjasa,Angon-Angon,Hidup Baru,Cabai,,Lokal,50,Colletotrichum Capsici,,0.3,5.13,0,
+132,29-Sep-22,Ganding,Bilapora timur,HM. Jaya Barokah,Padi,,"Ciherang, Inpari",35,Xanthomonas oryzae,,0.5,2.22,1.5,
+133,21-Sep-22,Arjasa,Laok Jang-jang,Indah Setia,Padi,,"Ciherang, Inpari",52,Blas ( Magnopoerthe oryzae),,1,5.42,1,
+134,2/1/2022,Kota Sumenep,Paberasan,Indrakila IV,Padi,183,Ciherang,55,Xanthomonas oryzae,183,17.50,9.26,158.00,549
+135,3 Agustus 2022,Kota Sumenep,Paberasan,Indrakila Peberasan,Ubi Kayu,4.5,Mentega,89,Cercospora Manihoti,4.5,4.50,8.89,0.00,180
+136,2 Agustus 2022,Kota Sumenep,Paberasan,Indrakila VI,Kacang Tanah,14,Lokal,44,Virus Belang Mozaik,14,5.00,8.80,9.00,112
+137,4 Agustus 2022,Lenteng,Jambu,Ingin Madu Jambu,Padi,51,"Ciherang, Inpari, Mapan",60,Blas ( Magnopoerthe oryzae),51,2,4.07,7,357
+138,1/18/2022,Lenteng,Jambu,Intani,Padi,174,"Ciherang, Inpari, Mapan, M400",30,Xanthomonas oryzae,174,6,4.81,39,1914
+139,14 Maret 2022,Bluto,Kapedi,Janur Kuning,Jagung,,Lokal,17,Lalat Bibit (Atherigona Exigua),,1.1,4.03,1.2,
+140,1/18/2022,Batuan,Babblan,Janur Kuning Babbalan,Padi,32,Ciherang,32,Tikus (Rattus argentiventer),32,14.50,16.44,17.50,96
+141,29-Sep-22,Ambunten,Ambunten Tengah,Jati Air Ambunten Tengah,Jagung,,Lokal,67,Spodoptera frugiperda,,0.15,0.13,3,
+142,6-Sep-22,Guluk-guluk,Guluk-guluk,Jati Jaya Guluk Guluk,Jagung,,NK 212,35,Bulai,,1,0.04,0,
+143,2/8/2022,Batuan,Torbang,Jaya Abadi,Padi,56,Ciherang,49,Blas ( Magnopoerthe oryzae),56,5.50,9.63,50.50,168
+144,26 Juli 2022,Saronggi,Talang,Jaya Kusuma,Jagung,8,Hibrida,35,Bulai,8,0.5,8.15,0.7,96
+145,24-Aug-22,Bluto,Sera Timur,Jaya Makmur,Jagung,1,Hibrida,45,Bipolaris maydis,1,0.6,5.92,0.4,12
+146,1/3/2022,Arjasa,Arjasa,Jaya Mulya,Padi,,Ciherang,40,Xanthomonas oryzae,0.6,,4.41,0.9,
+147,9 Maret 2022,Rubaru,Mandala,Jaya Mulya Mandala,Jagung,,Lokal,50,Spodoptera frugiperda,,0.2,4.07,0.3,
+148,29-Sep-22,Ambunten,Ambunten Barat,Jaya Murni Ambunten Barat,Jagung,,Lokal,85,Tikus (Rattus argentiventer),,0.25,1.3,5,
+149,1/11/2022,Batuan,Torbang,Jaya Sempurna Torbang,Padi,35,Ciherang,30,Tikus (Rattus argentiventer),17.00,35.00,16.45,18.00,105
+150,3/28/2022,Arjasa,Laok Jang-jang,Jaya Tani,Kacang Hijau,,Lokal,70,Pseudomonas Syringae,,0.8,4.97,0.4,
+151,28-Dec-22,Guluk-guluk,Payudan Dundang,Jaya Tani Guluk Guluk,Padi,157,"Ciherang, Inpari",21,Tikus (Rattus argentiventer),157,3,15.1,2.2,942
+152,18-Aug-22,Arjasa,Bilis-Bilis,Jembatan Indah,Padi,,Ciherang,45,Blas ( Magnopoerthe oryzae),,1,4.66,2,
+153,20 Juni 2022,Arjasa ,Bilis-Bilis,Jengan Manggis,Padi,,Ciherang,75,Rhizoctonia Solani,,1.3,5.36,9.7,
+154,4/19/2022,Bluto,Kapedi,Jernih Setia,Jagung,37,Hibrida,45,Spodoptera frugiperda,37,1.4,4.75,4.2,444
+155,1/26/2022,Dasuk,Semaan,Jiwa Sumekar,Padi,3,Ciherang,60,Tikus (Rattus argentiventer),3,1,9.83,4,12
+156,21 Juni 2022,Ganding,Bilapora timur,Joyo Molyo,Padi,8,"Ciherang, Inpari, Mapan, M400",60,Blas ( Magnopoerthe oryzae),8,1.5,4.44,2.5,88
+157,22 Pebruari 2022,Arjasa,Bilis-Bilis,Kaju Jaran,Padi,,Ciherang,50,Xanthomonas oryzae,182,0.7,5.21,0,728
+158,26-Dec-22,Arjasa,Bilis-Bilis,Kami Maju Arjasa,Padi,,Ciherang,40,Xanthomonas oryzae,,0.6,5.53,10,
+159,29-Sep-22,Arjasa,Sawah Sumur,Kampar,Kacang Hijau,,Lokal,75,Pseudomonas Syringae,,1,5.87,2,
+160,29-Sep-22,Rubaru,Bunbarat,Kaola Muda Tani,Bawang Merah,,Rubaru,50,Alternaria porri,,0.2,7.4,1,
+161,5-Sep-22,Arjasa,Bilis-Bilis,Karang Barat,Padi,,"Ciherang, Inpari",50,Penggerek Batang,,1.3,5.48,,
+162,1/12/2022,Guluk-guluk,Batuampar,Karang Jati,Padi,,Ciherang,35,Xanthomonas oryzae,2,,9.2,0,
+163,4/20/2022,Bluto,Karang Cempaka,Karang Natura,Jagung,11,Hibrida,45,Spodoptera frugiperda,11,1.4,6.34,2.6,132
+164,29-Dec-22,Arjasa,Kalisangka,Karanjhi Indah,Kacang Tanah,,Lokal,85,Cercospora arachidicola,,0.5,5.76,2.2,
+165,29-Dec-22,Pragaan,Sendang,Karunia Sendang,Padi,10,"Ciherang, Inpari",25,Xanthomonas oryzae,10,6,6.6,4,60
+166,2/9/2022,Dasuk,Kerta Timur,Karya Muda Pangilen,Padi,3,Ciherang,50,Xanthomonas oryzae,3,1,8.88,2,12
+167,2 Agustus 2022,Lenteng,Lenteng timur,Kebun Rakyat,Padi,35,"Ciherang, Inpari, Mapan, M400",70,Penggerek Batang,35,1.5,1.19,2.5,385
+168,29-Dec-22,Arjasa,Angon-Angon,Kembang Kuning,Padi,,Ciherang,40,Cnaphalocrocis Medinalis,,1,5.09,9,
+169,17 Mei 2022,Manding,Kasengan,Kembang Tury,Padi,7,Inpari,50,Tikus (Rattus argentiventer),7,2.5,6.66,5.5,49
+170,1/18/2022,Batuan,Babblan,Keramat Jaya Babbalan,Padi,32,Ciherang,32,Blas ( Magnopoerthe oryzae),32,4.50,7.04,27.50,96
+171,1/26/2022,Dasuk,Kerta Timur,Kerto Raharjo,Padi,3,Mapan,50,Xanthomonas oryzae,3,1,9.25,3,21
+172,6 Juli 2022,Guluk-guluk,Bragung,Ketan Birma Lekong timur,Bawang Merah,,Philip,15,Moler,,0.1,3.3,,
+173,29-Aug-22,Dasuk,Dasuk Barat,Korbak Jaya Satu,Jagung,4,Hibrida,40,Spodoptera frugiperda,4,1,6.67,,48
+174,2/9/2022,Dasuk,Kerta Timur,Kramat Jaya,Padi,3,Ciherang,50,Tikus (Rattus argentiventer),3,1,7.81,2,12
+175,6-Sep-22,Rubaru,Duko,KT Saleber,Bawang merah,3,Rubaru,25,Spodoptera exigua,3,0.1,8.14,2,51
+176,25 Juli 2022,Saronggi,Saronggi,KWT Al Amin,Jagung,11,Hibrida,35,Peronosclerospora Maydis,11,0.7,8.01,1.4,132
+177,1/19/2022,Saronggi,Tanamerah,KWT Al Aska,Jagung,457,Hibrida,80,Tikus (Rattus argentiventer),29,1.2,8.51,4.3,87
+178,22-Aug-22,Saronggi,Kambingan Timur,KWT Al Barokah,Jagung,3,Hibrida,70,Tikus (Rattus argentiventer),3,0.60,9.66,4.20,36
+179,22-Aug-22,Saronggi,Tanamerah,KWT Al Karimah,Jagung,11,Hibrida,70,Tikus (Rattus argentiventer),11,0.60,8.09,1.10,132
+180,2/1/2022,Rubaru,Basoka,KWT Al-Barokah,Bawang merah,59,Rubaru,50,Ulat Grayak,59,0.2,4.07,55,1003
+181,1/4/2022,Guluk-guluk,Pordapor,KWT Al-Ichwan,Padi,,Ciherang,23,Tikus (Rattus argentiventer),4,,13.1,0,
+182,22-Aug-22,Rubaru,Bunbarat,KWT Amilzha,Bawang merah,9,Rubaru,25,Mati pucuk,9,2,7.4,,153
+183,1/12/2022,Rubaru,Karangnangka,KWT An Nur,Padi,3,Sembada,75,Wereng Batang Coklat,0,3,0,3,15
+184,24 Mei 2022,Arjasa,Bilis-Bilis,KWT Anggrek,Padi,,"Ciherang, Inpari",50,Blas ( Magnopoerthe oryzae),,0.7,4.90,6,
+185,2/1/2022,Saronggi,Aeng Tongtong,KWT An Nabila,Padi,29,Ciherang,75,Rhizoctonia Solani,29,0.6,5.16,1.6,87
+186,2/3/2022,Lenteng,Lenteng timur,KWT Ar-Raodah Lenteng Timur,Padi,290,"Ciherang, Inpari, Mapan, M400",35,Xanthomonas oryzae,290,2,2.59,19,3190
+187,8-Sep-22,Saronggi,Tanjung,KWT Ar Rozak,Jagung,5,Hibrida,45,Lalat Bibit (Atherigona Exigua),5,0.6,4.78,1.1,60
+188,9 Juni 2022,Saronggi,Saronggi,KWT Bintang Saronggi,Jagung,4,Hibrida,45,Lalat Bibit (Atherigona Exigua),4,0.7,4.75,1.2,48
+189,27-Oct-22,Saronggi,Talang,KWT Bunga Anggrek,Jagung,,Hibrida,25,Spodoptera frugiperda,,1.5,6.57,4.4,
+190,19-Sep-22,Arjasa,Bilis-Bilis,KWT Bunga Bakti Arjasa,Padi,,Ciherang,64,Blas ( Magnopoerthe oryzae),,1,5.65,3.5,
+191,2 Agustus 2022,Saronggi,Talang,KWT Bunga Mawar Merah,Jagung,8,Hibrida,21,Lalat Bibit (Atherigona Exigua),8,0.7,4.58,0.6,96
+192,1/20/2022,Guluk-guluk,Guluk-guluk,KWT Bunga Sumekar,Jagung,10,Betras,75,Tikus (Rattus argentiventer),10,6,11.1,0,130
+193,12-Apr-22,Saronggi,Talang,KWT Bunga Tani,Jagung,1,Hibrida,35,Lalat Bibit (Atherigona Exigua),0.7,3.46,0,,12
+194,3/16/2022,Arjasa,Kalisangka,KWT Bunga Teratai Arjasa,Kacang Tanah,,Lokal,30,Virus Belang Mozaik,,0.8,4.56,1.9,
+195,1/20/2022,Lenteng,Daramista,KWT Dara Puspa,Padi,211,"Ciherang, Inpari, Mapan, M400",30,Xanthomonas oryzae,211,4,4.81,8,2321
+196,24 Januari 2022,Arjasa,Bilis-Bilis,KWT Darussalam Arjasa,Padi,,Ciherang,40,Xanthomonas oryzae,,1,4.99,8,
+197,3/21/2022,Bluto,Sera Tengah,KWT Daun Emas,Jagung,16,Hibrida,22,Lalat Bibit (Atherigona Exigua),16,1.4,3.08,2.7,192
+198,19-Sep-22,Arjasa,Kalisangka,KWT Gunung Jati Arjasa,Kacang Hijau,,Lokal,75,Pseudomonas Syringae,,0.7,5.37,0,
+199,25-Aug-22,Pasongsongan,Campaka,KWT Janur Kuning,Cabai Kecil,,Lokal,,Antraknosa,,0.5,6.67,2.5,
+200,16 Juni 2022,Arjasa ,Sambakati,KWT Jeruk Sampar,Padi,,Inpari,70,Rhizoctonia Solani,,5.54,0,1,
+201,26 Juli 2022,Saronggi,Tanamerah,KWT Juwar Sari,Jagung,3,Hibrida,35,Peronosclerospora Maydis,3,0.8,8.48,0.6,36
+202,27 Juni 2022,Ambunten,Campaka,KWT Karang Asem Ambunten,Cabai Kecil,,Lokal,60,Antraknosa,,0.5,6.67,2.5,
+203,21 Juli 2022,Rubaru,Basoka,KWT Karya Abadi,Bawang merah,10,Rubaru,40,Layu Fusarium,10,0.3,4.44,9.00,170
+204,1/20/2022,Manding,Lanjuk,KWT Keluarga Bahagia,Padi,17,Ciherang,35,Tikus (Rattus argentiventer),17,0.5,6.66,17,51
+205,8-Oct-22,Rubaru,Matanair,KWT Khotijah Rubaru,Bawang Merah,,Rubaru,40,Mati pucuk,,0.1,8.14,1,
+206,6 Juni 2022,Manding,Manding laok,KWT Maemok,Padi,15,Inpari,50,Penggerek Batang,15,"0,5","0,67",1,105
+207,21 Pebruari 2022,Dasuk,Dasuk Timur,KWT Maju Sejahtera,Padi,5,Mapan,50,Xanthomonas oryzae,,1,9.62,3,
+208,20-Sep-22,Arjasa,Angon-Angon,KWT Makam Sengkong,Jagung,,Lokal,55,Bulai,,0.6,5.53,1.1,
+209,24-Aug-22,Guluk-guluk,Pananggungan,KWT Masa Depan Pananggungan,Jagung,,NK 212,20,Tikus (Rattus argentiventer),,3,7.6,0,
+210,4 Juli 2022,Kota Sumenep,Kacongan,KWT Matahari,Padi,140,"Ciherang, Inpari",74,Penggerek Batang,140,25.00,13.37,115.00,980
+211,5 Juli 2022,Saronggi,Saroka,KWT Matahari Berseri,Jagung,2,Hibrida,42,Ulat Grayak,2,0.8,7.19,1.2,24
+212,12-Apr-22,Arjasa,Pajennangger,KWT Mega Bakti Arjasa,Jagung,,Lokal,30,Hawar Daun (Helminthosporium turcicum),1,5.65,0,,
+213,20 Juni 2022,Lenteng,Banaresep timur,KWT Mekar Indah,Padi,18,"Ciherang, Inpari, Mapan",40,Xanthomonas oryzae,18,1.5,5.55,5.5,126
+214,26-Dec-22,Lenteng,Poreh,KWT Mekar Indah Poreh,Padi,118,"Ciherang, Inpari, Mapan",30,Xanthomonas oryzae,118,1.5,4.07,15.5,826
+215,24 Pebruari 2022,Rubaru,Matanair,KWT Mekar Sari Rubaru,Padi,4,Sembada,50,Penggerek Batang,,0.8,3.24,2,
+216,23 Mei 2022,Saronggi,Aeng Tongtong,KWT Melati Aengtongtong,Padi,2,Ciherang,50,Blas ( Magnopoerthe oryzae),2,0.9,4.40,0.6,6
+217,2/3/2022,Kota Sumenep,Bangkal,KWT Melati kota sumenep,Padi,12,Ciherang,63,Xanthomonas oryzae,12,8.00,8.89,4.00,36
+218,2 Maret 2022,Batuan,Patian,KWT Melati Patean,Padi,194,Ciherang,83,Rhizoctonia Solani,194,17.00,9.26,177.00,776
+219,2/7/2022,Saronggi,Talang,KWT Melati Putih,Padi,216,Ciherang,60,Blas ( Magnopoerthe oryzae),216,2.1,5.33,7.2,648
+220,26-Dec-22,Lenteng,Dsaramisata,KWT Melati Room,Padi,93,"Ciherang, Mapan, Inpari, Cakrabuana",60,Xanthomonas oryzae,93,2,3.7,4,651
+221,22-Dec-22,Arjasa,Laok Jang-jang,KWT Mentari,Padi,,Ciherang,47,Scirpophaga innotata,,1,4.17,3,
+222,29-Sep-22,Arjasa,Sambakati,KWT Mutiara Sambakati,Padi,,Ciherang,60,Xanthomonas oryzae,,1,5.66,3,
+223,2/3/2022,Gapura,Poja,KWT Nor Hikmah,Padi,50.5,"Ciherang, Inpari",57,Tikus (Rattus argentiventer),50.5,0.3,11.46,9,303
+224,1/5/2022,Rubaru,Basoka,KWT Nurul Hidayah,Bawang Merah,5,Rubaru,40,Spodoptera frugiperda,0.3,5,4.44,4,85
+225,1/3/2022,Dasuk,Dasuk Timur,KWT Potreh Dasuk Timur,Padi,2,Ciherang,50,Xanthomonas oryzae,1,2,8.88,1,6
+226,4/20/2022,Saronggi,Saronggi,KWT Puspita Mitra,Padi,36,Ciherang,32,Xanthomonas oryzae,36,1.9,4.43,7.8,108
+227,2 Agustus 2022,Bluto,Gilang,KWT Putri Gemilang,Jagung,2,Hibrida,55,Bulai,2,0.2,7.95,0.3,24
+228,27-Oct-22,Saronggi,Tanjung,KWT Putri Mandalia,Jagung,,Hibrida,45,Spodoptera frugiperda,,0.5,4.84,0.7,
+229,23-Aug-22,Saronggi,Kambingan Timur,KWT Putri Panggulan,Jagung,9,Hibrida,70,Bipolaris maydis,9,1.7,6.20,4.4,108
+230,19 Juli 2022,Ambunten,Campaka,KWT Putri Payung,Cabai Kecil,,Lokal,60,Antraknosa,,0.5,6.67,,
+231,1/5/2022,Saronggi,Talang,KWT Putri Talang,Padi,216,Ciherang,30,Tikus (Rattus argentiventer),1.2,216,4.75,4.2,648
+232,5 Juli 2022,Saronggi,Talang,KWT Rahayu Indah,Jagung ,8,Hibrida,30,Spodoptera frugiperda,8,1.8,6.53,3.1,96
+233,27-Dec-22,Guluk-guluk,Pordapor,KWT Ratu Tani,Padi,10,"Ciherang, Inpari",21,Tikus (Rattus argentiventer),10,3,7.45,2.2,60
+234,19-Dec-22,Arjasa,Bilis-Bilis,KWT Riski Tani Arjasa,Padi,,Ciherang,50,Blas ( Magnopoerthe oryzae),,0.5,5.32,5.3,
+235,2/1/2022,Saronggi,Saronggi,KWT Sari Bunga,Padi,62,Inpari,67,Rhizoctonia Solani,62,0.8,6.38,3.6,372
+236,21 Pebruari 2022,Ganding,Bilapora barat,KWT Sedap Malam,Padi,53,"Ciherang, Inpari, Mapan, M400",50,Blas ( Magnopoerthe oryzae),,1.5,2.59,7.5,
+237,1/18/2022,Manding,Giring,KWT Sekar Arum Manding,Padi,20,Ciherang,32,Tikus (Rattus argentiventer),20,0.5,3.33,20,60
+238,29-Sep-22,Rubaru,Mandala,KWT Sekar Tanjung,Bawang Merah,,Rubaru,35,Liriomyza,,0.1,6.67,1,
+239,24 Mei 2022,Bluto,Sera Timur,KWT Setia Murni,Padi,2,Ciherang,30,Xanthomonas oryzae,2,0.6,5.16,3.4,6
+240,4/20/2022,Saronggi,Talang,KWT Srikandi,Padi,101,Ciherang,31,Xanthomonas oryzae,101,1.2,5.91,2.8,303
+241,17 Pebruari 2022,Manding,Lanjuk,KWT Sumber Bening,Padi,17,Ciherang,35,Tikus (Rattus argentiventer),,0.5,6.66,17,
+242,5 Juli 2022,Saronggi,Saronggi,KWT Sumber jaya,Jagung,9,Hibrida,25,Ulat Grayak,9,1.1,7.26,2.2,108
+243,4 Juli 2022,Lenteng,Lenteng timur,KWT Tanian Lanjang,Padi ,35,"Ciherang, Inpari, Mapan",35,Tikus (Rattus argentiventer),35,4,17.15,9,245
+244,5 Juli 2022,Rubaru,Basoka,KWT Tersanjung,Bawang Merah,10,Rubaru,40,Layu Fusarium,10,0.30,,,170
+245,29-Dec-22,Arjasa,Angon-Angon,KWT Tunas Kelapa,Padi,,Ciherang,40,Blas ( Magnopoerthe oryzae),,0.6,4.03,8,
+246,2/1/2022,Saronggi,Juluk,KWT Unisa Jaya,Padi,68,Ciherang,55,Tikus (Rattus argentiventer),68,0.7,4.47,5.6,272
+247,2/8/2022,Lenteng,Cangkreng,KWT. Al-Hidayah Lenteng,Padi,167,"Ciherang, Inpari, Mapan, M400",40,Xanthomonas oryzae,167,2,4.44,12,1837
+248,19 Juli 2022,Bluto,Aeng Baja Raja,KWT. Al-Hidayah Bluto,Jagung,5,Hibrida,45,Bipolaris maydis,5,1.1,6.24,3.2,60
+249,30-Dec-22,Guluk-guluk,Bakeong,KWT. Al Jannah,Padi,238,"Ciherang, Inpari",26,Xanthomonas oryzae,238,8,5.07,10,1428
+250,2/7/2022,Lenteng,Poreh,KWT. Al Harra,Padi,205,"Ciherang, Inpari, Mapan, M400",40,Xanthomonas oryzae,205,2,9.25,7,2255
+251,19 Mei 2022,Gapura, Gapura tengah,KWT. Bunga Anggrek Gapura Tengah,Padi,199.5,"Ciherang, Inpari",22,Tikus (Rattus argentiventer),199.5,0.7,12.71,21,1197
+252,6 Juli 2022,Saronggi,Aeng Tongtong,KWT. Estoh Ebhu,Jagung,1,Hibrida,25,Lalat Bibit (Atherigona Exigua),1,0.6,4.87,0.4,12
+253,1/18/2022,Saronggi,Aeng Tongtong,KWT. Jaya Makmur,Padi,29,Ciherang,41,Blas ( Magnopoerthe oryzae),53,0.7,4.43,2.1,159
+254,8 Maret 2022,Batuan,Gunggung,KWT. Kembang Seruni,Padi,114,Ciherang,84,Rhizoctonia Solani,114,11.00,8.52,103.00,456
+255,27-Dec-22,Arjasa,Laok Jang-jang,KWT. Melati Putih,Kacang Hijau,,Lokal,67,Pseudomonas Syringae,,0.3,5.3,0.2,
+256,28-Dec-22,Arjasa,Sambakati,KWT. Melati Sambakati,Padi,,Ciherang,40,Xanthomonas oryzae,,1,4.87,15,
+257,17 Pebruari 2022,Lenteng,Lenteng timur,KWT. Nurul Hikmah,Jagung,75,"Betras, Bisis",15,Lundi/Uret,75,0.5,9.7,1,1595
+258,1/18/2022,Lenteng,Sindir,KWT. Nurul Huda,Padi,115,"Ciherang, Inpari, Mapan, M400",35,Xanthomonas oryzae,115,4,4.07,21,1265
+259,1/12/2022,Kota Sumenep,Parsanga,KWT. Putri Rahayu,Padi,27.5,Ciherang,30,Tikus (Rattus argentiventer),7.50,27.50,11.26,20.00,110
+260,20 Juni 2022,Lenteng,Daramista,KWT. Sari Anugerah II,Padi,28,"Ciherang, Inpari, Mapan",30,Tikus (Rattus argentiventer),28,0.5,15.55,3.5,196
+261,3/21/2022,Guluk-guluk,Bragung,KWT. Sekar Wangi,Padi,8,Ciiherang,25,Blas ( Magnopoerthe oryzae),8,4,1.8,,24
+262,6 Juli 2022,Kota Sumenep,Parsanga,KWT. Srikandi,Padi,54,"Ciherang, Inpari",74,Tikus (Rattus argentiventer),54,7.50,11.01,46.50,378
+263,21 Juli 2022,Ambunten,Ambunten Tengah,KWT. Srikandi Ambunten Tengah,Jagung,,Lokal,67,Spodoptera frugiperda,,0.15,0.13,,
+264,8 Maret 2022,Batuan,Batuan,KWT. Suka Maju,Padi,133.5,Ciherang,84,Penggerek Batang,133.5,7.50,11.82,126.00,534
+265,16 Pebruari 2022,Lenteng,Cangkreng,KWT. Sumber Emas,Padi,167,"Ciherang, Inpari, Mapan, M400",35,Xanthomonas oryzae,167,3,7.77,8,1837
+266,1/12/2022,Manding,Kasengan,KWT. Sumber Rejeki,Padi,17,Ciherang,34,Blas ( Magnopoerthe oryzae),0.5,17,3.33,17,68
+267,8 Maret 2022,Batuan,Gedungan,KWT. Teratai Gedungan Barat,Padi,78.5,Ciherang,77,Rhizoctonia Solani,78.5,8.00,8.89,70.50,314
+268,3/17/2022,Bluto,Bluto,KWT.Annisak,Jagung,16,Hibrida,25,Lalat Bibit (Atherigona Exigua),16,0.6,4.04,1.2,192
+269,4 Juli 2022,Bluto,Palongan,KWT.Bunga Mawar,Jagung,3,Hibrida,35,Ulat Grayak,3,0.7,6.78,1.4,36
+270,21 Juni 2022,Arjasa ,Paseraman,KWT.Kenanga II,Padi,,"Ciherang, Inpari",65,Rhizoctonia Solani,,1.5,5.76,8.5,
+271,17 Pebruari 2022,Guluk-guluk,Guluk-guluk ,latansa Group,Padi,,M400,70,Blas ( Magnopoerthe oryzae),,7,"26,6",0,
+272,3/15/2022,Pragaan,Larangan Pereng,Lembah Lestari Kerrem,Kacang Hijau,55,Lokal,55,Penggerek Polong,55,1,6.6,,55
+273,21-Sep-22,Saronggi,Tanamerah,Lestari,Jagung,,Hibrida,40,Bulai,,0.2,,,
+274,12 Juli 2022,Saronggi,Talang,Mahkota Jaya,Padi ,121,Ciherang,75,Rhizoctonia Solani,121,4.1,5.46,3.8,363
+275,17 Mei 2022,Saronggi,Saronggi,Majapahit,Padi,67,Ciherang,58,Penggerek Batang,67,1.4,3.36,4.2,201
+276,6 Juli 2022,Saronggi,Saronggi,Maju Jaya,Jagung,9,Hibrida,25,Lalat Bibit (Atherigona Exigua),9,1.4,3.64,3.6,108
+277,1/4/2022,Dasuk,Batubelah Timur,Maju Jaya Dasuk,Padi,3,Ciherang,50,Xanthomonas oryzae,2,3,13.33,1,9
+278,1/12/2022,Manding,Kasengan,Maju Sejahtera Kasengan,Padi,17,Ciherang,35,Tikus (Rattus argentiventer),0.5,17,6.66,17,68
+279,20 Juli 2022,Arjasa,Arjasa,Makessing Arjasa,Jagung,,Lokal,50,Ulat Grayak,,0.7,5.85,0,
+280,30-Dec-22,Batuan,Gedungan,Makmur Jaya,Padi,,Mapan,20,Tikus (Rattus argentiventer),,0.2,1.66,10,
+281,2 Juni 2022,Saronggi,Saronggi,Makmur Jaya Saronggi,Padi,67,Ciherang,62,Xanthomonas oryzae,67,2.2,5.85,1.4,201
+282,5 Juli 2022,Kota Sumenep,Kacongan,Makmur Jaya 354,Padi,140,"Ciherang, Inpari",74,Xanthomonas oryzae,140,25.00,9.26,115.00,980
+283,28-Dec-22,Guluk-guluk,Bakeong,Makmur jaya Birsa,Padi,238,"Ciherang, Inpari",14,Blas ( Magnopoerthe oryzae),238,5,1.8,9,1428
+284,2 Agustus 2022,Gapura,Gapura Tengah,Makmur Jaya gapura Tengah,Padi,92,"Ciherang, Inpari",45,Blas ( Magnopoerthe oryzae),92,3,4.07,12,552
+285,8 Maret 2022,Saronggi,Pagar Batu,Makmur Jaya Pagar batu,Jagung,2,Hibrida,22,Lalat Bibit (Atherigona Exigua),2,0.6,2.56,1.7,24
+286,6 Juni 2022,Saronggi,Talang,Makmur Sentosa,Jagung,2,Hibrida,14,Lalat Bibit (Atherigona Exigua),2,0.4,3.86,0.5,24
+287,9 Juni 2022,Bluto,Palongan,Mandala,Padi ,2,Ciherang,55,Blas ( Magnopoerthe oryzae),2,0.8,4.12,0.4,6
+288,3 Agustus 2022,Arjasa,Kalisangka,Mandar Arjasa,Kacang Tanah,,Lokal,45,Virus Belang Mozaik,,0.7,4.57,1.3,
+289,3-Oct-22,Arjasa,Kalisangka,Mandar Jaya,Jagung,,Lokal,20,Lalat Daun,,0.5,4.30,0.5,
+290,13-Apr-22,Arjasa,Laok Jang-jang,Mandar Laok JJ,Padi,5.5,Ciherang,11,Lalat Daun,1,4.09,0,,
+291,8-Sep-22,Saronggi,Saronggi,Mandiri Saronggi,Jagung,11,Hibrida,45,Lalat Bibit (Atherigona Exigua),11,1.2,4.06,1.4,132
+292,19 Mei 2022,Gapura,Beraji,Manshurin,Padi,98.5,"Ciherang, Inpari",70,Blas ( Magnopoerthe oryzae),98.5,1.5,6.29,12,591
+293,3/16/2022,Lenteng,Lenteng barat,Mapan Desa Lenteng Barat,Padi ,72,"Ciherang, Inpari, Mapan, M400",70,Hawar Daun (Helminthosporium turcicum),72,2,8.14,3,792
+294,3/17/2022,Lenteng,Ellak Daya,Mathlubi,Padi,185,"Ciherang, Inpari, Mapan, M400",70,Hawar Daun (Helminthosporium turcicum),185,3,5.92,14,2035
+295,3 Agustus 2022,Kota Sumenep,Kacongan,Mawar,Ubi Kayu,0.1,Mentega,74,Cercospora Manihoti,0.1,0.10,6.30,0.00,4
+296,11-Apr-22,Arjasa,Pajennangger,Mawar Biru,Kacang Tanah,,Lokal,45,Virus Belang Mozaik,0.8,4.83,0,,
+297,2/3/2022,Saronggi,Kambingan Timur,MDR Jaya,Padi,116,Ciherang,57,Xanthomonas oryzae,116,2.3,6.94,7.2,348
+298,7 Maret 2022,Kota Sumenep,Parsanga,Mekar III Parsanga,Padi,54,Ciherang,91,Rhizoctonia Solani,54,13.00,8.89,41.00,216
+299,1/17/2022,Kota Sumenep,Bangkal,Mekar Indah Sumenep,Padi,12,Ciherang,42,Blas ( Magnopoerthe oryzae),12,5.50,8.15,6.50,48
+300,7 Maret 2022,Saronggi,Talang,Mekar Jaya,Padi,214,Ciherang,85,Rhizoctonia Solani,214,4.1,5.87,2.7,856
+301,4/21/2022,Ganding,Ganding,Mekar Sari Ganding,Padi,12,"Ciherang, Inpari",20,Blas ( Magnopoerthe oryzae),12,2,2.59,7,72
+302,4 Juli 2022,Kota Sumenep,Kacongan,Mekar Sari Sumenep,Padi,140,"Ciherang, Inpari",74,Blas ( Magnopoerthe oryzae),140,7.50,6.21,115.00,980
+303,8 Maret 2022,Guluk-guluk,Guluk-guluk ,Melati Putih Guluk Guluk,Padi,,M400,70,Blas ( Magnopoerthe oryzae),,7,"26,6",0,
+304,22 Pebruari 2022,Saronggi,Talang,Meranggi Jaya,Padi,24,Ciherang,60,Xanthomonas oryzae,17,3.1,6.95,8.4,68
+305,3-Oct-22,Arjasa,Kalisangka,Mitra Jaya Abadi,Jagung,,Lokal,20,Ulat Grayak,,0.7,4.25,0.3,
+306,18 Juli 2022,Arjasa,Laok Jang-jang,Mitra Tani,Kacang Hijau,,Lokal,50,Pseudomonas Syringae,,0.7,5.68,,
+307,6-Oct-22,Arjasa,Arjasa,Mitra Tani Arjasa,Cabai,,Lokal,150,Antraknosa,,0.2,4.90,0,
+308,17 Pebruari 2022,Arjasa,Angon-Angon,Mitra Tani Indah,Padi,,Ciherang,65,Xanthomonas oryzae,199.5,1,5.87,6.5,1197
+309,1/6/2022,Arjasa,Laok Jang-jang,Mitra Tani Sejahtera,Padi,,Ciherang,35,Xanthomonas oryzae,0.8,,4.01,0.7,
+310,18 Juli 2022,Kota Sumenep,Parsanga,Moro Senneng,Padi,54,"Ciherang, Inpari",88,Penggerek Batang,54,17.50,16.03,,378
+311,1/7/2022,Kota Sumenep,Kacongan,Muda Jaya,Padi,49,Ciherang,30,Tikus (Rattus argentiventer),11.00,49.00,12.22,38.00,196
+312,28 Mei 2022,Arjasa,Kalisangka,Nibung Lanjeng,Padi,,"Ciherang, Inpari",50,Blas ( Magnopoerthe oryzae),,1.5,5.02,7.5,
+313,25 Juli 2022,Arjasa,Kalisangka,Nura Cukir,Kacang Hijau,,Lokal,65,Pseudomonas Syringae,,0.7,5.35,0,
+314,5 Juli 2022,Lenteng,Banaresep timur,Nurul Hidayah,Padi,18,"Ciherang, Inpari, Mapan",40,Xanthomonas oryzae,18,1.5,5.55,5.5,126
+315,20 Juni 2022,Gapura,Gapura barat,Nurul Hikmah Gapura Barat,Padi,70,"Ciherang, Inpari",55,Xanthomonas oryzae,70,2,6.11,9,420
+316,3/29/2022,Dasuk,Bringin,Nurus Salam,Jagung,3,Lokal,50,Spodoptera frugiperda,3,1,9.25,2,3
+317,26-Dec-22,Arjasa,Bilis-Bilis,Nyaka Bersama,Padi,,Ciherang,40,Cnaphalocrocis Medinalis,,0.8,4.97,9,
+318,4/21/2022,Arjasa,Duko,Nyaka Mandiri,Padi,,Ciherang,23,Blas ( Magnopoerthe oryzae),0.8,,3.58,0,
+319,19-Dec-22,Gapura,Longos,Nyarandeng Bulen,Jagung,1,Betras,50,Spodoptera frugiperda,1,0.1,3.3,0.9,14
+320,27-Dec-22,Ganding,Bilapora barat,Opelan Jaya,Padi,37,"Ciherang, Inpari, Mapan",20,Xanthomonas oryzae,37,2,2.59,5,259
+321,2 Juni 2022,Arjasa,Duko,Padeng Lepben Sambuje,Padi,,"Ciherang, Inpari",60,Penggerek Batang,,1.3,4.56,5.7,
+322,27-Oct-22,Arjasa,Laok Jang-jang,Padi Emmas,Jagung,,Lokal,20,Lalat Bibit (Atherigona Exigua),,0.6,4.86,,
+323,24-Aug-22,Arjasa,Arjasa,Paelan Makmur,Kacang Tanah,,Lokal,40,Virus Belang Mozaik,,0.5,4.18,0,
+324,29-Dec-22,Lenteng,Ellak Daya,Pajer Laggu,Padi,118,"Ciherang, Inpari, Mapan",30,Tikus (Rattus argentiventer),118,1.5,11.08,9,826
+325,3/22/2022,Arjasa,Sambakati,Palalangan,Kacang Tanah,,Lokal,27,Cercospora arachidicola,,1,3.53,2.5,
+326,1/7/2022,Bluto,Palongan,Pancoran Emas,Padi,12,Ciherang,25,Xanthomonas oryzae,0.7,12,5.07,2.1,36
+327,12-Sep-22,Saronggi,Tanamerah,Pancoran Mas,Jagung,4,Hibrida,30,Spodoptera frugiperda,4,0.4,6.07,2.2,48
+328,17 Mei 2022,Arjasa,Sambakati,Pandan Wangi,Padi,,Ciherang,45,Blas ( Magnopoerthe oryzae),,1,4.65,7,
+329,27 Januari 2022,Arjasa,Pandeman,Pendeman Indah,Padi,,Ciherang,45,Xanthomonas oryzae,,1.2,5.07,9.8,
+330,3/28/2022,Arjasa,Pandeman,Pandeman Jaya I,Kacang Tanah,,Lokal,30,Cercospora arachidicola,,0.7,3.94,1,
+331,2 Agustus 2022,Kota Sumenep,Bangkal,Paranggan,Kacang Tanah,5.5,Lokal,33,Virus Belang Mozaik,5.5,0.75,8.20,4.75,44
+332,23 Juni 2022,Arjasa ,Laok Jang-jang,Paregi,Padi,,"Ciherang, Inpari",50,Xanthomonas oryzae,,1.2,5.63,2.3,
+333,30-Dec-22,Guluk-guluk,Bragung,Partemon,Padi,190,"Ciherang, Inpari",30,Xanthomonas oryzae,190,6,4.92,14,1140
+334,3-Oct-22,Arjasa,Bilis-Bilis,Pasar Pao,Padi,,Ciherang,79,Rhizoctonia Solani,,0.7,5.05,3,
+335,16 Pebruari 2022,Lenteng,Cangkreng,Pattimura,Padi,167,"Ciherang, Inpari, Mapan, M400",40,Tikus (Rattus argentiventer),115,4,3.83,17,1265
+336,1/10/2022,Manding,Kasengan,Pelangi,Padi,17,Ciherang,35,Tikus (Rattus argentiventer),1.5,17,3.33,17,68
+337,9 Juni 2022,Arjasa,Laok Jang-jang,Pelita Jaya,Padi,,"Ciherang, Inpari",62,Rhizoctonia Solani,,1,5.09,6,
+338,4/20/2022,Arjasa,Kalisangka,Pelteng Baru,Kacang Tanah,,Lokal,65,Cercospora arachidicola,,0.7,5.37,3,
+339,2 Maret 2022,Saronggi,Saronggi,Pemuda Tani Taruna Bumi,Padi,37,Ciherang,90,Blas ( Magnopoerthe oryzae),37,1.4,1.72,2.7,148
+340,30 Mei 2022,Arjasa,Bilis-Bilis,Permata Indah Arjasa,Padi,,Ciherang,55,Xanthomonas oryzae,,1,5.43,6,
+341,7-Apr-22,Arjasa,Pajennangger,Perreng Keles,Kacang Hijau,,Lokal,55,Pseudomonas Syringae,1.2,4.89,0,,
+342,8-Sep-22,Saronggi,Talang,Pertani,Jagung,11,Hibrida,45,Lalat Bibit (Atherigona Exigua),11,0.6,4.27,1.2,132
+343,20-Sep-22,Arjasa,Angon-Angon,Pojur Tani,Jagung,,Lokal,60,Bipolaris maydis,,0.7,5.54,1,
+344,15-Oct-22,Guluk-guluk,Payudan Daleman ,Potre Koning Payudan Daleman,Jagung,,NK 212,40,Spodoptera frugiperda,,1,2.59,0.5,
+345,18 Juli 2022,Lenteng,Lenteng barat,Prima Tani,Padi,18,"Ciherang, Inpari, Mapan",60,Penggerek Batang,18,0.5,1.42,4.5,126
+346,1/22/2022,Pragaan,KADUARA TIMUR,Primadona,Jagung,15,Bisi 2,75,Tikus (Rattus argentiventer),15,7,16.6,0,210
+347,23 Juni 2022,Ambunten,Padangdangan,Pujuk Samura,Cabai Kecil,,Lokal,55,Antraknosa,,0.3,3.3,1.7,
+348,19-Sep-22,Kota Sumenep,Parsanga,Putera Desa,Kacang Hijau,,Lokal,54,Bakteri Hawar,,3.5,5.56,4,
+349,1/7/2022,Saronggi,Kambingan Timur,Putra harapan Kambingan Timur,Padi,116,Ciherang,28,Tikus (Rattus argentiventer),1.4,116,5.76,6.7,464
+350,20 Mei 2022,Dasuk,Kerta Timur,Putra Jaya Kertim,Padi,,Ciherang,60,Blas ( Magnopoerthe oryzae),2,5,8.14,0,6
+351,24 Mei 2022,Bluto,Palongan,Putra Kencana,Padi,2,Ciherang,50,Xanthomonas oryzae,2,0.7,5.69,0.5,6
+352,7-Sep-22,Arjasa,Sumbernangka,Putra Makmur Jaya,Padi,,"Ciherang, Inpari",52,Blas ( Magnopoerthe oryzae),,1.2,4.98,,
+353,20-Dec-22,Arjasa,Kolo-Kolo,Putra Mandiri,Padi,,Ciherang,40,Blas ( Magnopoerthe oryzae),,0.5,4.72,9.3,
+354,4/18/2022,Dasuk,Kerta Timur,Putra Manggalang,Padi,5,Ciherang,32,Blas ( Magnopoerthe oryzae),5,0.3,3.33,4,15
+355,7-Sep-22,Arjasa,Sumbernangka,Putra Melati Jaya,Padi,,Hibrida,52,Xanthomonas oryzae,,0.8,5.40,,
+356,26-Sep-22,Gapura,Gapura Timur,Putra Putri,Padi,,"Ciherang, Inpari",45,Blas ( Magnopoerthe oryzae),,3,4.07,12,
+357,2 Maret 2022,Batuan,Babbalan,Putra Randu Permai,Padi,172,Ciherang,65,Rhizoctonia Solani,172,13.00,8.15,159.00,688
+358,2/7/2022,Batuan,Babblan,Putri Ayu Mandiri Babbalan,Padi,172,Ciherang,48,Xanthomonas oryzae,172,4.50,7.04,167.50,516
+359,8 Juni 2022,Arjasa,Laok Jang-jang,Putri Larangan,Padi,,Ciherang,60,Xanthomonas oryzae,,0.8,5.53,2.7,
+360,22-Aug-22,Arjasa,Paseraman,Putri Rafathan I,Jagung,,Lokal,40,Ulat Grayak,,0.8,4.97,0.7,
+361,23-Aug-22,Arjasa,Paseraman,Putri Rafathan II,Padi,,"Ciherang, Inpari",47,Blas ( Magnopoerthe oryzae),,1.2,4.61,3.5,
+362,10-May-22,Kota Sumenep,Parsanga,Rahayu Parsanga I,Padi,54.00,Ciherang,24,Xanthomonas oryzae,54.00,8.89,0,0.25,162
+363,1/18/2022,Kota Sumenep,Parsanga,Rahayu Parsanga II,Padi,27.5,Ciherang,32,Tikus (Rattus argentiventer),27.5,8.50,15.29,19.00,110
+364,6 Juni 2022,Manding,Manding laok,Rangrang Mole,Padi,15,Inpari 42,50,Tikus (Rattus argentiventer),15,"0,5",6.66,1,105
+365,19-Aug-22,Ambunten,Ambunten Barat,Raudatul Muhlisin,Jagung,,Lokal,,Tikus (Rattus argentiventer),,0.25,1.3,5,
+366,22 Juni 2022,Ambunten,Ambunten Tengah,Raudlatul Nasyiien,Jagung,,Lokal,67,Spodoptera frugiperda,,0.15,0.13,3,
+367,16 Pebruari 2022,Manding,Giring,Rejeki Tani Manding,Padi,20,Ciherang,32,Tikus (Rattus argentiventer),,0.5,3.33,20,
+368,18-Aug-22,Saronggi,Talang,Remaja Harapan,Jagung,11,Hibrida,35,Bulai,11,0.50,8.15,0.70,132
+369,1/18/2022,Saronggi,Nambakor,Remaja Jaya Saronggi,Padi,53,Ciherang,26,Tikus (Rattus argentiventer),182,0.8,4.88,2.8,546
+370,1-Oct-22,Batuan,Batuan,Remaja Tani,Kedelai,,Lokal,20,Tikus (Rattus argentiventer),,1.5,10,2,
+371,9 Juni 2022,Guluk-guluk,Payudan Daleman ,Rembulan Payudan Daleman,Jagung,,NK Hebat,85,Tikus (Rattus argentiventer),,3,16,,
+372,19-Sep-22,Saronggi,Talang,Rimba Mulya Talang,Kacang Hijau,,Lokal,75,Heliothis armigera,,1.1,3.62,8.4,
+373,1/20/2022,Saronggi,Tanjung,Rimba Mulya Tanjung,Jagung,430,Hibrida,81,Tikus (Rattus argentiventer),457,0.6,8.46,3.6,5484
+374,1/20/2022,Guluk-guluk,Payudan Dundang,Rimba Nariya,Padi,110,Ciherang,75,Xanthomonas oryzae,110,3,17.7,,440
+375,2/1/2022,Batuan,Patian,Rizqi Indah,Padi,194,Ciherang,60,Xanthomonas oryzae,194,13.00,9.26,181.00,582
+376,23 Mei 2022,Arjasa,Pabian,Rukun Tani,Padi,,Ciherang,45,Blas ( Magnopoerthe oryzae),,1.3,5.19,3.7,
+377,5-Apr-22,Arjasa,Bilis-Bilis,Sabuwa Indah,Padi,5.5,Ciherang,12,Lalat Daun,1.5,4.88,0,,
+378,2/2/2022,Batuan,Torbang,Sadar Usaha,Padi,56,Ciherang,49,Tikus (Rattus argentiventer),56,7.00,17.36,49.00,168
+379,8 Maret 2022,Dasuk,Bringin,Sahabat Bringin,Padi,,Ciherang,70,Blas ( Magnopoerthe oryzae),,2,11.11,5,
+380,29-Sep-22,Arjasa,Sawah Sumur,Sahara Jaya,Jagung,,"Lokal, Hibrida",62,Bipolaris maydis,,1.2,5.16,3.8,
+381,1/3/2022,Lenteng,Lenteng barat,Saloseh,Padi,25,"Ciherang, Inpari",20,Tikus (Rattus argentiventer),3,25,23.24,10,150
+382,11-Oct-22,Arjasa,Sambakati,Sambakati,Kacang Tanah,,Lokal,88,Blas ( Magnopoerthe oryzae),,0.7,6.01,1.2,
+383,1-Sep-22,Arjasa,Sambakati,Sampang Indah,Jagung,,Lokal,75,Bipolaris maydis,,0.7,5.38,,
+384,14 Juni 2022,Ambunten,Ambunten Barat,Samporna,Jagung,,Lokal,85,Tikus (Rattus argentiventer),,0.25,1.3,,
+385,12-Oct-22,Arjasa,Sumbernangka,Sanang Makmur Jaya,Kacang Hijau,,Lokal,67,Pseudomonas Syringae,,0.5,5.30,0.5,
+386,10-Oct-22,Arjasa,Sumbernangka,Sanang Sumber Nangka,Padi,,"Ciherang, Inpari",67,Penggerek Batang,,1,6.41,2,
+387,30-Dec-22,Saronggi,Saronggi,Sandi Makmur Jaya,Padi,62,Ciherang,30,Xanthomonas oryzae,62,2.7,5.07,3.8,186
+388,20-Sep-22,Arjasa,Kalisangka,Sanglong,Padi,,Ciherang,60,Penggerek Batang,,1,5.52,1,
+389,24-Aug-22,Guluk-guluk,Payudan Dundang,Sari Bumi Kalabaan Daja,Jagung,,NK 212,70,Tikus (Rattus argentiventer),,7,26,0,
+390,4 Agustus 2022,Bluto,Errabu,Sari Putra,Jagung,2,Hibrida,55,Lalat Bibit (Atherigona Exigua),2,0.6,4.78,0.7,24
+391,1/13/2022,Rubaru,Pakondang,Satrea,Padi,8,Sembada,50,Wereng Batang Coklat,0,8,0,8,40
+392,26 Juli 2022,Guluk-guluk,Bragung,Sedap Malam,Jagung,,Hibrida,35,Tikus (Rattus argentiventer),,10,25,0,
+393,29-Sep-22,Arjasa,Laok Jang-jang,Sederhana Indah,Padi,,"Ciherang, Inpari",52,Blas ( Magnopoerthe oryzae),,1,5.42,1,
+394,2/7/2022,Pragaan,PAKAMBEN LAOK,Segar Abadi,Padi,,Ciherang,80,Wereng Batang Coklat,,7,0,18,
+395,1/4/2022,Guluk-guluk,Bakeong,Sejahtera Lebille,Padi,,Ciherang,35,Tikus (Rattus argentiventer),3,,4.3,0,
+396,17 Pebruari 2022,Lenteng,Sendir,Sejahtera Sendir,Padi,115,"Ciherang, Inpari, Mapan, M400",55,Tikus (Rattus argentiventer),75,2,11.16,11,1050
+397,5 Juli 2022,Lenteng,Daramista,Sekar Makmur,Padi,28,"Ciherang, Inpari, Mapan",30,Tikus (Rattus argentiventer),28,0.5,15.55,3.5,196
+398,1-Sep-22,Arjasa,Sambakati,Sekorap,Kacang Tanah,,Lokal,68,Cercospora arachidicola,,0.5,5.30,,
+399,6-Sep-22,Arjasa,Sambakati,Selenta,Jagung,,Lokal,40,Bulai,,0.7,5.68,,
+400,19 Juli 2022,Bluto,Sera Timur,Semi Abadi,Jagung,1,Hibrida,45,Bipolaris maydis,1,0.6,5.92,0.4,12
+401,28 Juni 2022,Arjasa ,Pabian,Sentol Manis,Padi,,Ciherang,70,Rhizoctonia Solani,,1,4.99,4,
+402,4 Agustus 2022,Lenteng,Poreh,Sepakat,Padi,14,"Ciherang, Inpari, Mapan",60,Xanthomonas oryzae,14,1.5,3.33,1.5,98
+403,1-Sep-22,Arjasa,Sambakati,Setambek Jaya,Padi,,Ciherang,35,Xanthomonas oryzae,,1,4.65,,
+404,6-Sep-22,Arjasa,Sambakati,Setemmo Konce,Jagung,,Lokal,75,Bipolaris maydis,,1,5.64,,
+405,2 Agustus 2022,Lenteng,Daramista,Setia Bakti,Padi,25,"Ciherang, Inpari, Mapan",65,Xanthomonas oryzae,25,1.5,4.44,4.5,175
+406,25-Aug-22,Arjasa,Angon-Angon,Setia Kawan Angon-Angon,Jagung,,Lokal,35,Lalat Bibit (Atherigona Exigua),,0.8,4.56,0.9,
+407,19 Januari 2022,Arjasa,Arjasa,Setia Kawan Arjasa,Padi,,Ciherang,50,Xanthomonas oryzae,,1,4.43,2.5,
+408,18 Juli 2022,Arjasa,Pabian,Sinar Jaya,Jagung,,Lokal,45,Ulat Grayak,,0.5,4.64,0.2,
+409,1/6/2022,Arjasa,Angon-Angon,Sinar Maju Angon-Angon,Padi,,Ciherang,45,Xanthomonas oryzae,1,,4.21,4.5,
+410,27-Oct-22,Saronggi,Aeng Tongtong,Sinar Pusaka,Jagung,,Hibrida,52,Spodoptera frugiperda,,0.4,6.07,1.6,
+411,4-Apr-22,Arjasa,Sawah Sumur,Somanjheng,Cabai,,Lokal,90,Virus Belang Mozaik,0.3,4.03,0,,
+412,24 Februari 2022,Arjasa,Arjasa,Sri Mustika,Padi,,Ciherang,65,Xanthomonas oryzae,24,1.5,5.02,2,96
+413,16-Aug-22,Arjasa,Sumbernangka,Sri Rejeki,Padi,,Ciherang,36,Xanthomonas oryzae,,0.6,"4,86",3,
+414,5-Sep-22,Batuan,Batuan,Subur,Kedelai,,Lokal,20,Tikus (Rattus argentiventer),,1.5,10,0,
+415,2/3/2022,Lenteng,Lembung Timur,Subur Abadi,Padi,38,"Ciherang, Inpari",40,Xanthomonas oryzae,38,3,6.29,4,228
+416,3 Agustus 2022,Guluk-guluk,Pananggungan,Subur Makmur,Jagung,,NK 212,20,Tikus (Rattus argentiventer),,3,7.6,0,
+417,13 Juni 2022,Ambunten,Ambunten Tengah,Suci Harapan,Jagung,,Lokal,67,Spodoptera frugiperda,,0.15,0.13,,
+418,29-Aug-22,Ambunten,Campor Barat,Suka Karya Campor Barat,Jagung,,Lokal,,Tikus (Rattus argentiventer),,0.3,6.67,5,
+419,23 Juni 2022,Ambunten,Ambunten Barat,Suka Maju,Jagung,,Lokal,85,Tikus (Rattus argentiventer),,0.25,1.3,5,
+420,16 Pebruari 2022,Arjasa,Laok Jang-jang,Suka Maju II,Padi,,Ciherang,60,Xanthomonas oryzae,98.5,0.8,5.26,0,591
+421,24-Aug-22,Gapura,Gapura Tengah,Suka Maju Jaya,Padi,92,"Ciherang, Inpari",45,Blas ( Magnopoerthe oryzae),92,3,4.07,12,552
+422,10-Oct-22,Arjasa,Duko,Sumber Alam I,Padi,,Ciherang,70,Rhizoctonia Solani,,1.2,5.54,1.8,
+423,2 Juni 2022,Arjasa,Duko,Sumber Alam II,Padi,,"Ciherang, Inpari",55,Xanthomonas oryzae,,1,5.20,6,
+424,2/3/2022,Kota Sumenep,Kolor,Sumber Bahagia,Padi,128,Ciherang,51,Blas ( Magnopoerthe oryzae),128,5.50,8.15,123.00,384
+425,2/9/2022,Batuan,Gunggung,Sumber Barokah Gunggung,Padi,114,Ciherang,59,Xanthomonas oryzae,114,11.00,9.63,103.00,342
+426,21-Sep-22,Saronggi,Tanamerah,Sumber Barokah Tanah Merah,Jagung,,Hibrida,40,Lalat Bibit (Atherigona Exigua),,0.4,,,
+427,18-Aug-22,Arjasa,Duko,Sumber Biru,Jagung,,Lokal,20,Lalat Bibit (Atherigona Exigua),,0.6,4.05,0.4,
+428,19 Juli 2022,Lenteng,Lenteng timur,Sumber Bunga,Padi,35,"Ciherang, Inpari, Mapan",55,Xanthomonas oryzae,35,0.5,2.96,2.5,245
+429,22 Juni 2022,Arjasa ,Paseraman,Sumber Delima,Padi,,"Ciherang, Inpari",65,Xanthomonas oryzae,,1,4.98,6,
+430,12-Sep-22,Saronggi,Kambingan Timur,Sumber DIPA,Jagung,8,Hibrida,45,Ulat Grayak,8,0.3,8.72,0.6,96
+431,10 Maret 2022,Bluto,Palongan,Sumber Gayam,Padi,12,Ciherang,90,Blas ( Magnopoerthe oryzae),12,0.8,1.55,1.4,48
+432,8 Maret 2022,Saronggi,Tanamerah,Sumber Harapan Tanah Merah,Jagung,3,Hibrida,41,Lalat Bibit (Atherigona Exigua),3,0.4,3.58,1.1,36
+433,3/17/2022,Lenteng,Lenteng barat,Sumber Hasil Padanan,Kacang Hijau,,Lokal,25,Pseudomonas Syringae,,1,2.96,2,
+434,3 Agustus 2022,Guluk-guluk,Payudan Dundang,Sumber Hikmah,Jagung,,NK 212,70,Tikus (Rattus argentiventer),,7,26,0,
+435,8 Juni 2022,Saronggi,Saroka,Sumber Hikmah Saronggi,Jagung,3,Hibrida,65,Tikus (Rattus argentiventer),3,0.4,5.42,0.1,36
+436,20-Dec-22,Bluto,Sera Timur,Sumber Ikhlas,Padi,19,Ciherang,21,Xanthomonas oryzae,19,0.5,4.63,2.2,57
+437,2/7/2022,Pragaan,KADUARA TIMUR,Sumber Jaya,Padi,,Ciherang,80,Blas ( Magnopoerthe oryzae),,9,7.6,0,
+438,12-Apr-22,Saronggi,Saronggi,Sumber Jaya Tani,Kacang Hijau,563,Lokal,55,Tikus (Rattus argentiventer),2.2,5.03,0,,192
+439,8-Sep-22,Arjasa,Duko,Sumber Makmur,Padi,,"Ciherang, Inpari",50,Lalat Daun,,0.7,4.11,,
+440,4 Juli 2022,Lenteng,Jambu,Sumber Makmur Jambu,Padi,51,"Ciherang, Inpari, Mapan",35,Tikus (Rattus argentiventer),51,3,17.8,4,561
+441,28-Dec-22,Guluk-guluk,Bragung,Sumber Mingsoi,Padi,190,"Ciherang, Inpari",17,Blas ( Magnopoerthe oryzae),190,6,6.6,7,1140
+442,17 Pebruari 2022,Saronggi,Talang,Sumber Nafkah,Padi,24,Ciherang,60,Penggerek Batang,24,0.8,2.14,2.2,96
+443,1/18/2022,Batuan,Batuan,Sumber Padi Batuan,Padi,25,Ciherang,42,Tikus (Rattus argentiventer),25,7.50,16.59,17.50,75
+444,21 Pebruari 2022,Arjasa,Paseraman,Sumber Rabe-Rabe,Padi,,Inpari 42,75,Xanthomonas oryzae,16,1.5,5.98,9,64
+445,22-Aug-22,Ambunten,Ambunten Tengah,Sumber Rejeki Ambunten,Jagung,,Lokal,,Spodoptera frugiperda,,0.15,0.13,3,
+446,19 Mei 2022,Saronggi,Talang,Sumber Rejeki,Padi,167,Ciherang,35,Penggerek Batang,167,2.7,3.47,5.6,501
+447,2/7/2022,Batuan,Gunggung,Sumber Rejeki Cangcangan,Padi,114,Ciherang,59,Blas ( Magnopoerthe oryzae),114,7.00,9.26,107.00,342
+448,21 Juni 2022,Gapura,Gapura tengah,Sumber Rejeki Gapura Barat,Padi,92,"Ciherang, Inpari",45,Blas ( Magnopoerthe oryzae),92,3,4.07,12,552
+449,2/7/2022,Dasuk,Batubelah Timur,Sumber Rejeki Laok,Padi,4,Ciherang,45,Tikus (Rattus argentiventer),4,1,7.04,3,16
+450,23-Aug-22,Arjasa,Paseraman,Sumber Rejeki Paseraman,Padi,,"Ciherang, Inpari",36,Xanthomonas oryzae,,1,4.87,4,
+451,18-Aug-22,Saronggi,Saronggi,Sumber Rejeki Saronggi,Padi,27,Ciherang,70,Xanthomonas oryzae,27,1.3,5.97,3.4,81
+452,4/21/2022,Kota Sumenep,Kebonagung,Sumber Rejeki Sumenep,Jagung,0.25,Bisi,48,Ulat Grayak,0.25,0.25,11.11,0.00,3.5
+453,24-Aug-22,Bluto,Palongan,Sumber Semi,Jagung,3,Hibrida,35,Lalat Bibit (Atherigona Exigua),3,0.4,3.85,0.6,36
+454,26 Juli 2022,Guluk-guluk,Guluk-guluk,Sumber Semi Kalabaan Daja,Jagung,,NK 212,30,Tikus (Rattus argentiventer),,3.1,7.6,0,
+455,23 Mei 2022,Saronggi,Talang,Sumber Sukun,Padi,167,Ciherang,35,Tikus (Rattus argentiventer),167,1.4,4.86,3.4,501
+456,16 Pebruari 2022,Saronggi,Saronggi,Sumber Taman,Padi,16,Ciherang,60,Penggerek Batang,68,1.4,3.74,3.4,272
+457,24 Pebruari 2022,Bluto,Palongan,Sumber Tampal,Padi,12,Ciherang,65,Rhizoctonia Solani,4,1.2,6.28,2.8,24
+458,16-Aug-22,Saronggi,Kambingan Timur,Sumber Tani Timur,Padi,21,Mapan,80,Penggerek Batang,21,1.2,3.23,2.2,63
+459,3/15/2022,Pragaan,Larangan Pereng,Sumber Urip Pragaan,Kacang Hijau,19,Lokal,10,Tikus (Rattus argentiventer),19,4,0,,19
+460,22-Dec-22,Saronggi,Talang,Sumber Urip,Padi,216,Ciherang,25,Xanthomonas oryzae,216,2.7,6.41,5.2,648
+461,12-Apr-22,Saronggi,Saroka,Sumber Usaha Saroka,Jagung,1,Hibrida,15,Lalat Bibit (Atherigona Exigua),0.8,3.94,0,,12
+462,26-Dec-22,Guluk-guluk,Guluk-guluk,Sumber Waru Jati,Padi,107,"Ciherang, Mapan",21,Xanthomonas oryzae,107,5,6.41,14,749
+463,3/16/2022,Saronggi,Saronggi,Sumur Razim,Padi,1.75,Ciherang,12,Tikus (Rattus argentiventer),1.75,0.18,5.12,0.45,7
+464,5 Juli 2022,Kota Sumenep,Kolor,Surya Abadi,Padi,129,"Ciherang, Inpari",74,Blas ( Magnopoerthe oryzae),128.5,12.50,7.78,116.00,899.5
+465,18-Aug-22,Saronggi,Saronggi,Surya Tani,Padi,9,Hibrida,35,Peronosclerospora Maydis,9,0.7,8.01,1.4,108
+466,6-Oct-22,Arjasa,Angon-Angon,Tajjen Makmur,Jagung,,Lokal,45,Bulai,,1,5.98,2,
+467,1/26/2022,Bluto,Palongan,Taman Sare,Jagung,116,Ciherang,77,Tikus (Rattus argentiventer),116,1.1,7.21,3.1,812
+468,1/11/2022,Manding,Gadding,Tana Raja,Padi,20,Ciherang,32,Tikus (Rattus argentiventer),0.5,20,3.33,20,80
+469,5-Sep-22,Arjasa,Bilis-Bilis,Tani Berjaya,Padi,,"Ciherang,Inpari",50,Cnaphalocrocis Medinalis,,1.5,5.76,,
+470,4/19/2022,Rubaru,Basoka,Tani Harapan Bangsa,Bawang merah,10,Philip,22,Layu Fusarium,10,0.2,7.77,8,140
+471,27 Juni 2022,Arjasa ,Angon-Angon,Tani Lembek,Padi,,"Ciherang, Inpari",70,Rhizoctonia Solani,,1.2,5.44,10,
+472,18-Aug-22,Arjasa,Bilis-Bilis,Tani Sukses,Padi,,Ciherang,33,Lalat Daun,,0.5,4.42,2.5,
+473,26 Januari 2022,Arjasa,Pabian,Tanjakan Mesra Sejahtera,Padi,,Ciherang,50,Blas ( Magnopoerthe oryzae),,0.8,5.11,6.8,
+474,28-Dec-22,Arjasa,Paseraman,Tanjung Bumi,Padi,,Ciherang,40,Blas ( Magnopoerthe oryzae),,0.7,4.1,21.3,
+475,26-Sep-22,Guluk-guluk,Guluk-guluk,Tanodung Jaya,Jagung,,NK 212,35,Bulai,,1,4,0,
+476,8 Juni 2022,Saronggi,Kebun Dadap Timur,Taruna Tani Panggulan,Jagung,2,Hibrida,80,Tikus (Rattus argentiventer),2,0.7,7.09,0.2,24
+477,1/3/2022,Lenteng,Poreh,Taruna Tani Sinar Pagi,Padi,37,"Ciherang, Inpari",20,Tikus (Rattus argentiventer),3,37,16.62,22,222
+478,20 Januari 2022,Arjasa,Laok Jang-jang,Telaga Indah,Padi,,Ciherang,40,Blas ( Magnopoerthe oryzae),,1,5.31,1.7,
+479,5-Sep-22,Arjasa,Kalisangka,Temlo Tani Raya,Padi,,Ciherang,50,Xanthomonas oryzae,,0.8,5.26,,
+480,11-Oct-22,Arjasa,Pandeman,Temor Moleran,Jagung,,Lokal,58,Ulat Grayak,,0.7,4.72,2.3,
+481,26-Sep-22,Arjasa,Bilis-Bilis,Terbit Fajar,Padi,,Ciherang,64,Penggerek Batang,,1.2,6.48,3.5,
+482,1/5/2022,Kota Sumenep,Paberasan,Tiga Delapan,Padi,31,Ciherang,32,Tikus (Rattus argentiventer),11.00,31.00,18.05,20.00,93
+483,24-Aug-22,Arjasa,Sambakati,Togung,Jagung,,Lokal,64,Bulai,,1,5.31,1.7,
+484,22-Aug-22,Arjasa,Kalisangka,Topi Cangkul,Padi,,Ciherang,37,Xanthomonas oryzae,,0.7,4.25,1,
+485,2/7/2022,Gapura,Baban,Tunas Bangsa,Padi,198,"Ciherang, Inpari",25,Tikus (Rattus argentiventer),198,0.7,16.50,17,1188
+486,24-Aug-22,Bluto,Aeng Baja Raja,Tunas Baru,Jagung,5,Hibrida,45,Bipolaris maydis,5,1.1,6.24,3.2,60
+487,2 Agustus 2022,Kota Sumenep,Paberasan,Tunas Harapan Paberasan,Kacang Tanah,14,Lokal,44,Layu Bakteri,14,5.00,9.69,9.00,112
+488,3/16/2022,Saronggi,Kambingan Timur,Ujung Timur Katapang,Jagung ,2,Hibrida,25,Lalat Bibit (Atherigona Exigua),2,0.7,3.30,0.3,24
+489,25-Aug-22,Arjasa,Bilis-Bilis,Unggul Mandiri,Padi,,Ciherang,41,Xanthomonas oryzae,,0.7,5.37,3,
+490,16 Pebruari 2022,Saronggi,Talang,Usaha Mandiri,Padi,24,Ciherang,60,Tikus (Rattus argentiventer),12,1.8,4.81,3.7,48
+491,20-Dec-22,Gapura,Gapura Timur,Walet Putih GT,Jagung,5,Betras,40,Spodoptera frugiperda,5,1.5,4.81,3.5,70
+492,29-Dec-22,Guluk-guluk,Guluk-guluk,Wali Songo Guluk Guluk,Padi,107,"Ciherang, Mapan",21,Blas ( Magnopoerthe oryzae),107,9,5.07,17,749
+493,19-Sep-22,Arjasa,Kalisangka,Wong Deso,Kacang Hijau,,Lokal,63,Kumbang Tanah Kuning,,0.5,5.08,0.2,
+494,11-May-22,Kota Sumenep,Parsanga,Parsanga,Padi,54.00,Ciherang,24,Blas ( Magnopoerthe oryzae),54.00,8.52,0,0.25,162
