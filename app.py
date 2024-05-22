@@ -1,74 +1,55 @@
+
 import streamlit as st
 
-from streamlit_option_menu import option_menu
-import os
-from dotenv import load_dotenv
-load_dotenv()
-
-import home, trending, account, your, about, buy_me_a_coffee
 st.set_page_config(
-        page_title="Pondering",
+    page_title="Multipage App",
+    page_icon="👋",
 )
 
+st.title("Home")
+st.sidebar.success("Pilih halaman di atas.")
 
-st.markdown(
-    """
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src=f"https://www.googletagmanager.com/gtag/js?id={os.getenv('analytics_tag')}"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', os.getenv('analytics_tag'));
-        </script>
-    """, unsafe_allow_html=True)
-print(os.getenv('analytics_tag'))
+st.subheader("Hai, Sahabat Kelas Awan Pintar :wave:")
+    
+st.write(
+        "Saya bersemangat untuk menggunakan Streamlit lebih efisien dan efektif dalam bisnis."
+    )
+st.write("[Website Kelas Awan Pintar](https://kelasawanpintar.netlify.app/)")
+
+st.write("---")
+
+st.header("Apa yang saya lakukan")
+st.write("##")
+st.write(
+            """
+            Di Channel YouTube Kelas Awan Pintar, kita akan membuat tutorial untuk orang-orang yang:
+            - sedang mencari cara untuk belajar Python.
+            - sedang mencari cara untuk belajar Streamlit.
+            - ingin belajar Analisis Data & Ilmu Data untuk melakukan analisis.
+            - ingin belajar Artificial Intelligence, Data Science, Machine Learning, Natural Language Processing.
+            - ingin belajar dunia IT
+            - Jika ingin terhubung di [Linkedin](https://www.linkedin.com/in/jumadi-01/)
+            - Jika ingin gabung di group telegram [Kelas Awan Pintar](https://t.me/+CdyAL5WlRVNjOGM1)
 
 
-class MultiApp:
+            Jika Channel YouTube saya menarik bagi Anda, jangan lupa untuk berlangganan dan menyalakan notifikasi, agar Anda tidak ketinggalan konten apa pun.
+            
+            [Channel YouTube](https://www.youtube.com/channel/UC7rCdlKnMTt26Q3np3rW1Iw)
+            """
+        )
+st.header("Playlist Fundamental Streamlit")
+col1, col2, col3 = st.columns(3)
 
-    def __init__(self):
-        self.apps = []
+with col1:
+        st.subheader("Introduction di Aplikasi Streamlit")
+        st.video('https://www.youtube.com/watch?v=0PBpAEGuNHM&list=PLm94WimySTnr_AllzUeBTZR-fdvTsw99l')
 
-    def add_app(self, title, func):
+with col2:
+        st.subheader("Cara menampilkan teks")
+        st.video('https://www.youtube.com/watch?v=tPA0x_wToXQ&list=PLm94WimySTnr_AllzUeBTZR-fdvTsw99l&index=2')
 
-        self.apps.append({
-            "title": title,
-            "function": func
-        })
-
-    def run():
-        # app = st.sidebar(
-        with st.sidebar:        
-            app = option_menu(
-                menu_title='Pondering ',
-                options=['Home','Account','Trending','Your Posts','about','Buy_me_a_coffee'],
-                icons=['house-fill','person-circle','trophy-fill','chat-fill','info-circle-fill'],
-                menu_icon='chat-text-fill',
-                default_index=1,
-                styles={
-                    "container": {"padding": "5!important","background-color":'black'},
-        "icon": {"color": "white", "font-size": "23px"}, 
-        "nav-link": {"color":"white","font-size": "20px", "text-align": "left", "margin":"0px", "--hover-color": "blue"},
-        "nav-link-selected": {"background-color": "#02ab21"},}
-                
-                )
-
-        
-        if app == "Home":
-            home.app()
-        if app == "Account":
-            account.app()    
-        if app == "Trending":
-            trending.app()        
-        if app == 'Your Posts':
-            your.app()
-        if app == 'about':
-            about.app()    
-        if app=='Buy_me_a_coffee':
-            buy_me_a_coffee.app()    
-             
-          
-             
-    run()            
-         
+with col3:
+        st.subheader("Cara Menampilkan Data")
+        st.video('https://www.youtube.com/watch?v=dIx4ccvKduU&list=PLm94WimySTnr_AllzUeBTZR-fdvTsw99l&index=3')
+    
+st.write("---")
