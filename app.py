@@ -1,70 +1,74 @@
-import base64
 import streamlit as st
-import plotly.express as px
 
-df = px.data.iris()
+from streamlit_option_menu import option_menu
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
-@st.experimental_memo
-def get_img_as_base64(file):
-    with open(file, "rb") as f:
-        data = f.read()
-    return base64.b64encode(data).decode()
+import home, trending, account, your, about, buy_me_a_coffee
+st.set_page_config(
+        page_title="Pondering",
+)
 
 
-img = get_img_as_base64("image.jpg")
+st.markdown(
+    """
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src=f"https://www.googletagmanager.com/gtag/js?id={os.getenv('analytics_tag')}"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', os.getenv('analytics_tag'));
+        </script>
+    """, unsafe_allow_html=True)
+print(os.getenv('analytics_tag'))
 
-page_bg_img = f"""
-<style>
-[data-testid="stAppViewContainer"] > .main {{
-background-image: url("https://images.unsplash.com/photo-1501426026826-31c667bdf23d");
-background-size: 180%;
-background-position: top left;
-background-repeat: no-repeat;
-background-attachment: local;
-}}
 
-[data-testid="stSidebar"] > div:first-child {{
-background-image: url("data:image/png;base64,{img}");
-background-position: center; 
-background-repeat: no-repeat;
-background-attachment: fixed;
-}}
+class MultiApp:
 
-[data-testid="stHeader"] {{
-background: rgba(0,0,0,0);
-}}
+    def __init__(self):
+        self.apps = []
 
-[data-testid="stToolbar"] {{
-right: 2rem;
-}}
-</style>
-"""
+    def add_app(self, title, func):
 
-st.markdown(page_bg_img, unsafe_allow_html=True)
-st.title("It's summer!")
-st.sidebar.header("Configuration")
+        self.apps.append({
+            "title": title,
+            "function": func
+        })
 
-with st.container():
-    st.header("Big one")
-    st.markdown(
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    )
-    st.plotly_chart(px.scatter(df, x="sepal_width", y="sepal_length", color="species"))
-with st.container():
-    st.header("Big 2")
-    st.markdown(
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    )
-    st.plotly_chart(px.scatter(df, x="sepal_width", y="sepal_length", color="species"))
-with st.container():
-    st.header("Big 3")
-    st.markdown(
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    )
-    st.plotly_chart(px.scatter(df, x="sepal_width", y="sepal_length", color="species"))
-with st.container():
-    st.header("Big 4")
-    st.markdown(
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    )
-    st.plotly_chart(px.scatter(df, x="sepal_width", y="sepal_length", color="species"))
+    def run():
+        # app = st.sidebar(
+        with st.sidebar:        
+            app = option_menu(
+                menu_title='Pondering ',
+                options=['Home','Account','Trending','Your Posts','about','Buy_me_a_coffee'],
+                icons=['house-fill','person-circle','trophy-fill','chat-fill','info-circle-fill'],
+                menu_icon='chat-text-fill',
+                default_index=1,
+                styles={
+                    "container": {"padding": "5!important","background-color":'black'},
+        "icon": {"color": "white", "font-size": "23px"}, 
+        "nav-link": {"color":"white","font-size": "20px", "text-align": "left", "margin":"0px", "--hover-color": "blue"},
+        "nav-link-selected": {"background-color": "#02ab21"},}
+                
+                )
+
+        
+        if app == "Home":
+            home.app()
+        if app == "Account":
+            account.app()    
+        if app == "Trending":
+            trending.app()        
+        if app == 'Your Posts':
+            your.app()
+        if app == 'about':
+            about.app()    
+        if app=='Buy_me_a_coffee':
+            buy_me_a_coffee.app()    
+             
+          
+             
+    run()            
+         
